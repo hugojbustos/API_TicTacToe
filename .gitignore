@@ -1,0 +1,16 @@
+# .gitignore
+
+# Ignore pycache
+__pycache__/
+
+# Ignore environment virtual directory
+venv/
+
+# Ignore local database
+db.sqlite3
+
+# Ignore static files
+static/
+
+# Ignore media files
+media/
